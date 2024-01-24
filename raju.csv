@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705983092746,1336,GET_METHOD ,200,OK,API_TEST 1-1,text,true,,1602,169,1,1,https://reqres.in/api/uers?page=2&page=2,1330,0,586
